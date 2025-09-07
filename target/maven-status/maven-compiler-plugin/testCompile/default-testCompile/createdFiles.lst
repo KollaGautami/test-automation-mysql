@@ -1,0 +1,3 @@
+com\example\tests\ui\LoginUITest.class
+com\example\framework\ExtentReportListener.class
+com\example\tests\api\ReqResApiTest.class
